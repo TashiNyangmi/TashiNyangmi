@@ -31,7 +31,8 @@
 - 🌆 **National Urban League**: Contributed my skills before joining Bloomberg.
 
 🏆 **Certifications**:
-- **AWS Certification**: Proudly achieved my AWS certification on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
+- **AWS Certification**: Proudly achieved my AWS Cloud Practitioner certification on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
+[<img src = "https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/images/Cloud-Practitioner.png" alt = "aws-cert" width = "30" height = "30"/>]
 
 
 ### Let's Connect:
