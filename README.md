@@ -1,4 +1,4 @@
-# Hello World! 🌍 I'm Tashi
+# Hi there👋, I'm Tashi
 
 ### Data Engineering Enthusiast
 
