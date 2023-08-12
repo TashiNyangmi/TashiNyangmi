@@ -2,6 +2,9 @@
 
 ### Data Engineering Enthusiast
 
+🔍 **Career Aspirations**:
+- Actively seeking a Data Engineering role that emphasizes learning, mentorship, and growth. If you know of opportunities or can offer guidance, let's connect!
+
 🚀 **Current Project**: 
 - Deeply engaged in an end-to-end Data Engineering project, primarily utilizing AWS cloud services. 
 - Harnesses football data sourced from [RapidAPI](https://rapidapi.com/api-sports/api/api-football/).
@@ -31,17 +34,9 @@
 - 🌆 **National Urban League**: Contributed my skills before joining Bloomberg.
 
 🎓 **Education & Certifications**:
-- **AWS Certification**: Proudly achieved my AWS certification on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
+- **AWS Certification**: Proudly achieved my AWS Cloud Practitoner certification on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
 
 - **Data Engineering Program by PerScholas**: Graduated from an intensive 14-week, 500+ hours Data Engineering course at [PerScholas](https://perscholas.org) in July.
-  
-  <br>
-  <img src="https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/images/Cloud-Practitioner.png" width="100" alt="AWS Certified Cloud Practitioner">
-  <br>
-
-- **AWS Certification**: Proudly achieved on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
-
-
 
 
 ### Let's Connect:
