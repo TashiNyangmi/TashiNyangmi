@@ -30,8 +30,16 @@
 - 📊 **Bloomberg**: Worked as a Data Analyst.
 - 🌆 **National Urban League**: Contributed my skills before joining Bloomberg.
 
-🏆 **Certifications**:
+🎓 **Education & Certifications**:
 - **AWS Certification**: Proudly achieved my AWS certification on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
+
+- **Data Engineering Program by PerScholas**: Graduated from an intensive 14-week, 500+ hours Data Engineering course at [PerScholas](https://perscholas.org) in July.
+  
+  <br>
+  <img src="https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/images/Cloud-Practitioner.png" width="100" alt="AWS Certified Cloud Practitioner">
+  <br>
+
+- **AWS Certification**: Proudly achieved on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
 
 
 
