@@ -31,8 +31,7 @@
 - 🌆 **National Urban League**: Contributed my skills before joining Bloomberg.
 
 🏆 **Certifications**:
-- **AWS Certification**: Achieved on July 14, 2023. 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="278e9302-d4ca-44b7-a0d9-fac43decde59" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- **AWS Certification**: Proudly achieved my AWS certification on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
 
 
 ### Let's Connect:
