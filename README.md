@@ -2,7 +2,10 @@
 
 ### Data Engineering Enthusiast
 
-🚀 **Current Project**: I'm deeply engaged in an end-to-end Data Engineering project, primarily utilizing AWS cloud services. While most of the work is cloud-based, some coding is also being done on my local machine. The project harnesses football data sourced from [RapidAPI](https://rapidapi.com/api-sports/api/api-football/). Dive into the details [here](https://github.com/TashiNyangmi/de_football).
+🚀 **Current Project**: 
+- Deeply engaged in an end-to-end Data Engineering project, primarily utilizing AWS cloud services. 
+- Harnesses football data sourced from [RapidAPI](https://rapidapi.com/api-sports/api/api-football/).
+- Dive into the details [here](https://github.com/TashiNyangmi/de_football).
 
 
 📖 **On My Bookshelf**: 
