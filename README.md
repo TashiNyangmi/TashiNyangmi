@@ -34,6 +34,7 @@
 - 🌆 **National Urban League**: Contributed my skills before joining Bloomberg.
 
 🎓 **Education & Certifications**:
+- **Fundamentals of Generative AI, Google**: Micro-learning course that explores what large language models (LLM) are, the use cases where they can be utilized, and how you can use prompt tuning to enhance LLM performance. [Quiwklabs](https://www.cloudskillsboost.google/public_profiles/d530196a-aece-40fb-9425-f063c898fe40/badges/5954259).
 - **AWS Certification**: Proudly achieved my AWS Cloud Practitoner certification on July 14, 2023. Check out my badge on [Credly](https://www.credly.com/badges/278e9302-d4ca-44b7-a0d9-fac43decde59/public_url).
 
 - **Data Engineering Program by PerScholas**: Graduated from an intensive 14-week, 500+ hours Data Engineering course at [PerScholas](https://perscholas.org) in July.
